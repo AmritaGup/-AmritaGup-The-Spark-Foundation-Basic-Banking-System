@@ -4,7 +4,7 @@ The Sparks Foundation Project:Basic Banking System, This Web application is used
 
 Techonlogy stack:
 
-Front-end : HTML, CSS, Bootstrap & Javascript
+Front-end : HTML, CSS, Javascript
 
 Back-end : PHP
 
